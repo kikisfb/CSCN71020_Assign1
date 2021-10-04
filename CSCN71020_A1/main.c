@@ -18,8 +18,10 @@ void main() {
 
 	switch (inputNum)
 	{
-	case 1:
+	case 1: 
 		add();
+		break;
+
 	case 2:
 		subtract();
 	}
